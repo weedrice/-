@@ -1,2 +1,2 @@
-# MSG-Missionary-and-Supporter-Gate-
-데이터베이스 수업 프로젝트로 만든 Java 기반의 데이터베이스 관리 프로그램
+# 디자인 패턴을 적용해 만든 더치페이 어플리케이션
+객체지향 설계패턴 수업 프로젝트로 만든 Java, Android 기반의 더치페이 
